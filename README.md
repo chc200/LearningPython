@@ -10,3 +10,6 @@ I completed this solution using lists to test my understanding of adding / delet
 
 2)Fib sequence
 I completed this solution using recursion simple solution just adding all of the values to a list and sorting it.  (we can sort it because we know the values gradually get larger thus placing them in the right order ;))
+
+3) Primes
+Asks you to solve for all of the prime numbers under x value.  Completed and added values to a list.
