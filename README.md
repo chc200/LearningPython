@@ -13,3 +13,8 @@ I completed this solution using recursion simple solution just adding all of the
 
 3) Primes
 Asks you to solve for all of the prime numbers under x value.  Completed and added values to a list.
+
+
+Random additions
+----- 
+1)fibGen uses the yield function so it prints out the values in the fib sequence everytime you call next on the object. Without yield we would skip over values.
