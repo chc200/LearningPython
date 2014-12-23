@@ -6,6 +6,5 @@ def fib(max):
 		a, b = b, a + b
 
 if __name__ == '__main__':
-	count = fib(20)
-	for x in range(0,8):
-		print(next(count))
+	for x in fib(20):
+		print(x)
