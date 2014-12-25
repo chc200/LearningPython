@@ -13,7 +13,7 @@ def begin(distance):
 			if snd == 'x':
 				distance += 1
 				if distance == 25:
-					print("***** You're halfways there! ******")
+					print("***** You're halfway there! ******")
 				if distance == 50:
 					totalTime = time.time()-beginTime
 					print("Score {}".format((totalTime*100)))
